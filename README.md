@@ -34,7 +34,7 @@
 
 # Hobbies
 
-## Linux Ricing
-    * Setting up minimalist working environments using window managers. 
+## _Linux Ricing
+_Setting up minimalist working environments using window managers. 
 ![2020-06-11_17:18:01](https://user-images.githubusercontent.com/45355098/84382179-ebdb7c80-ac07-11ea-9122-8f822fcc0f7d.png)
 
