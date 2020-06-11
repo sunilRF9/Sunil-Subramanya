@@ -20,7 +20,7 @@
 ## Pandemic Tracker
     * A Flask API which provides country specific results of COVID-19 in a tabulated HTML and JSON as well.
     
-#### Code (https://github.com/sunilRF9/COVID-19-Flask-API/tree/beta)
+#### [Code](https://github.com/sunilRF9/COVID-19-Flask-API/tree/beta)
     
 ## Football News Scraper
     * Scrapes the latest headlines and article links using Beautiful Soup4 and Python.
