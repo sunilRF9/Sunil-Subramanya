@@ -48,6 +48,8 @@ _Setting up minimalist working environments on Linux._
 
 *email* : *sunil1996@gmail.com*
 
-*[Linkdln](https://www.linkedin.com/in/sunil-subramanya-bs-301188169/)*
+*[LinkedIn](https://www.linkedin.com/in/sunil-subramanya-bs-301188169/)*
 
-*[github](https://www.github.com/sunilRF9)*
+*[GitHub](https://www.github.com/sunilRF9)*
+
+*[reddit](https://www.reddit.com/user/shelbinho)*
