@@ -5,13 +5,13 @@
 I am, Sunil. My passions include Programming, Linux, AI and developing revolutionary apps apart from football.
 # Competencies
 
-       * Python
-       * C Programming 
-       * Flask
-       * Django REST Framework
-       * Relational Databases (Mysql/Postgres) 
-       * Linux 
-       * Computer Vision 
-       * OpenCV 
-       * Docker 
-       * Kubernetes
+    * Python
+    * C Programming 
+    * Flask
+    * Django REST Framework
+    * Relational Databases (Mysql/Postgres) 
+    * Linux 
+    * Computer Vision 
+    * OpenCV 
+    * Docker 
+    * Kubernetes
