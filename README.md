@@ -30,7 +30,7 @@
 
 
 ## *Multithreaded Video Downloader*
-    * Takes HAR as input, parses it and downloads all the links containing videos in the specified resolution.    
+    * Takes a HAR file as input, parses it and downloads all the links containing videos in the specified resolution.    
     
 #### [Code](https://github.com/sunilRF9/Video-downloader-from-a-HAR-file)
 
