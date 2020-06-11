@@ -1,7 +1,6 @@
 # Sunil Subramanya BS
 
- A dreamer,an aspiring computer scientist and an amateur footballer. My passions include Programming, Linux, AI and developing revolutionary apps apart from football.
-
+ A dreamer,an aspiring computer scientist and an amateur footballer. My passions include Programming, Linux, AI and developing revolutionary apps and services.
 
 # Competencies
 
