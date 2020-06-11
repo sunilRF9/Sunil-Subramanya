@@ -1,6 +1,6 @@
 # Sunil Subramanya BS
 
- A dreamer,an aspiring computer scientist and an amateur footballer. My passions include Programming, Linux, AI and developing revolutionary apps and services.
+ A dreamer, an aspiring computer scientist and an amateur footballer. My passions include Programming, Linux, AI and developing revolutionary apps and services.
 
 # Competencies
 
@@ -14,3 +14,8 @@
     * OpenCV 
     * Docker 
     * Kubernetes
+# Projects
+
+## Pandemic Tracker
+    * A Flask API which provides country specific results of COVID-19 in a tabulated HTML and JSON as well.
+    [Named Link](https://www.google.fr/ "Code") and https://github.com/sunilRF9/COVID-19-Flask-API/tree/beta
