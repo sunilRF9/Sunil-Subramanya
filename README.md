@@ -23,7 +23,7 @@
 
 ## Football News Scraper
     * Scrapes the latest headlines and article links using Beautiful Soup4 and Python.    
-#### [Code](https://github.com/sunilRF9/News-scrapper)
+    [Code](https://github.com/sunilRF9/News-scrapper)
 
 
 ## Multithreaded Video Downloader
