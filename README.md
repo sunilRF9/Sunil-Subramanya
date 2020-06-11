@@ -4,13 +4,16 @@
 ### Markdown
 I am, Sunil. My passions include Programming, Linux, AI and developing revolutionary apps apart from football.
 # Competencies
->> Python
->> C Programming 
->> Flask
->> Django REST Framework
->> Relational Databases (Mysql/Postgres) 
->> Linux 
->> Computer Vision 
->> OpenCV 
->> Docker 
->> Kubernetes
+
+Markup :
+          * Bullet list item 2
+          * Python
+          * C Programming 
+          * Flask
+          * Django REST Framework
+          * Relational Databases (Mysql/Postgres) 
+          * Linux 
+          * Computer Vision 
+          * OpenCV 
+          * Docker 
+          * Kubernetes
