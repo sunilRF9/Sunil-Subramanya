@@ -31,3 +31,10 @@
     * Takes HAR as input, parses it and downloads all the links containing videos in the specified resolution.
     
 #### [Code](https://github.com/sunilRF9/Video-downloader-from-a-HAR-file)
+
+# Hobbies
+
+## Linux Ricing
+
+![2020-06-11_17:18:01](https://user-images.githubusercontent.com/45355098/84382179-ebdb7c80-ac07-11ea-9122-8f822fcc0f7d.png)
+
