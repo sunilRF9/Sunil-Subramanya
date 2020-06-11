@@ -7,9 +7,10 @@
     * Flask
     * Django REST Framework
     * Relational Databases (Mysql/Postgres) 
-    * Linux 
     * Computer Vision 
     * OpenCV 
+    * Linux 
+    * Git
     * Docker 
     * Kubernetes
     
