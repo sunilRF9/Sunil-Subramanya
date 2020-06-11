@@ -25,9 +25,9 @@
 ## Football News Scraper
     * Scrapes the latest headlines and article links using Beautiful Soup4 and Python.
     
-#### Code (https://github.com/sunilRF9/News-scrapper)
+#### [Code](https://github.com/sunilRF9/News-scrapper)
       
 ## Multithreaded Video Downloader
     * Takes HAR as input, parses it and downloads all the links containing videos in the specified resolution.
     
-#### Code (https://github.com/sunilRF9/Video-downloader-from-a-HAR-file)
+#### [Code](https://github.com/sunilRF9/Video-downloader-from-a-HAR-file)
