@@ -8,9 +8,6 @@
     * Django REST Framework
     * Relational Databases (Mysql/Postgres) 
     * Computer Vision 
-    * OpenCV 
-    * Linux 
-    * Git
     * Docker 
     * Kubernetes
     
