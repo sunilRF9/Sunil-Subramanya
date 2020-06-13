@@ -53,7 +53,5 @@ _Setting up minimalist working environments on Linux._
 
 *[GitHub](https://www.github.com/sunilRF9)*
 
-*[reddit](https://www.reddit.com/user/shelbinho)*
-
 *[resume](https://github.com/sunilRF9/Sunil-Subramanya/files/4764979/Sunil.Subramanya-June.pdf)*
 
