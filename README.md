@@ -55,7 +55,7 @@ _Setting up minimalist working environments on Linux._
 
 # Contact
 
-**email** : *sunil1996@gmail.com*
+**[email](sunil1996@gmail.com)**
 
 **[LinkedIn](https://www.linkedin.com/in/sunil-subramanya-bs-301188169/)**
 
