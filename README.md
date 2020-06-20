@@ -20,7 +20,7 @@
 
 ![2020-06-20-142335_1920x1080_scrot](https://user-images.githubusercontent.com/45355098/85198242-9e949480-b304-11ea-90d4-3fff66cb8e2c.png)
 
-#### [Code](https://github.com/sunilRF9/COVID-19-Flask-API/tree/beta)
+#### [Code](https://github.com/sunilRF9/django-cms)
 
 ## **Pandemic Tracker**
 > A Flask API which provides country specific results of COVID-19 in a tabulated HTML and JSON as well.    
@@ -55,7 +55,7 @@ _Setting up minimalist working environments on Linux._
 
 # Contact
 
-**[email](sunil1996@gmail.com)**
+**email: sunil1996@gmail.com**
 
 **[LinkedIn](https://www.linkedin.com/in/sunil-subramanya-bs-301188169/)**
 
