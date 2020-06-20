@@ -14,7 +14,7 @@
 # Projects
 
 ## *Customer Management System using Django*
-Django application in which an admin can create customers, add, update and delete orders placed.
+    > Django application in which an admin can create customers, add, update and delete orders placed.
 
 
 ## *Pandemic Tracker*
