@@ -16,6 +16,11 @@
 ## **Customer Management System using Django**
 > Django application in which an admin can create customers, add, update and delete orders placed.
 
+![2020-06-20-142234_1920x1080_scrot](https://user-images.githubusercontent.com/45355098/85198239-9d636780-b304-11ea-8ddd-dc1637175372.png)
+
+![2020-06-20-142335_1920x1080_scrot](https://user-images.githubusercontent.com/45355098/85198242-9e949480-b304-11ea-90d4-3fff66cb8e2c.png)
+
+#### [Code](https://github.com/sunilRF9/COVID-19-Flask-API/tree/beta)
 
 ## **Pandemic Tracker**
 > A Flask API which provides country specific results of COVID-19 in a tabulated HTML and JSON as well.    
