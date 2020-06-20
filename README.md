@@ -13,6 +13,9 @@
     
 # Projects
 
+## *Customer Management System using Django*
+Django application in which an admin can create customers, add, update and delete orders placed.
+
 
 ## *Pandemic Tracker*
     * A Flask API which provides country specific results of COVID-19 in a tabulated HTML and JSON as well.    
