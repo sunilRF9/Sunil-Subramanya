@@ -13,24 +13,24 @@
     
 # Projects
 
-## *Customer Management System using Django*
+## **Customer Management System using Django**
 > Django application in which an admin can create customers, add, update and delete orders placed.
 
 
-## *Pandemic Tracker*
-    * A Flask API which provides country specific results of COVID-19 in a tabulated HTML and JSON as well.    
+## **Pandemic Tracker**
+> A Flask API which provides country specific results of COVID-19 in a tabulated HTML and JSON as well.    
     
 #### [Code](https://github.com/sunilRF9/COVID-19-Flask-API/tree/beta)
     
 
-## *Football News Scraper*
-    * Scrapes the latest headlines and article links using BeautifulSoup4 and Python.    
+## **Football News Scraper**
+> Scrapes the latest headlines and article links using BeautifulSoup4 and Python.    
     
 #### [Code](https://github.com/sunilRF9/News-scrapper)
 
 
-## *Multithreaded Video Downloader*
-    * Takes a HAR file as input, parses it and downloads all the links containing videos in the specified resolution.    
+## **Multithreaded Video Downloader**
+> Takes a HAR file as input, parses it and downloads all the links containing videos in the specified resolution.    
     
 #### [Code](https://github.com/sunilRF9/Video-downloader-from-a-HAR-file)
 
@@ -50,11 +50,11 @@ _Setting up minimalist working environments on Linux._
 
 # Contact
 
-*email* : *sunil1996@gmail.com*
+**email** : *sunil1996@gmail.com*
 
-*[LinkedIn](https://www.linkedin.com/in/sunil-subramanya-bs-301188169/)*
+**[LinkedIn](https://www.linkedin.com/in/sunil-subramanya-bs-301188169/)**
 
-*[GitHub](https://www.github.com/sunilRF9)*
+**[GitHub](https://www.github.com/sunilRF9)**
 
-*[resume](https://github.com/sunilRF9/Sunil-Subramanya/files/4764979/Sunil.Subramanya-June.pdf)*
+**[resume](https://github.com/sunilRF9/Sunil-Subramanya/files/4764979/Sunil.Subramanya-June.pdf)**
 
