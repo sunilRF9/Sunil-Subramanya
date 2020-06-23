@@ -23,7 +23,7 @@
 #### [Code](https://github.com/sunilRF9/django-cms)
 
 ## **Pandemic Tracker**
-> A Flask API which provides country specific results of COVID-19 in a tabulated HTML and JSON as well.    
+> A Flask API which provides country specific results of COVID-19.    
     
 #### [Code](https://github.com/sunilRF9/COVID-19-Flask-API/tree/beta)
     
