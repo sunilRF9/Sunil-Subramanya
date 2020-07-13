@@ -5,7 +5,7 @@
     * Python
     * C Programming 
     * Flask
-    * Django REST Framework
+    * Django 
     * Relational Databases (Mysql/Postgres) 
     * Computer Vision 
     * Docker 
