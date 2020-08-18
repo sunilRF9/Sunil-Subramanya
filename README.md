@@ -57,7 +57,7 @@ _Setting up minimalist working environments on Linux._
 
 # Contact
 
-**[mailto](sunil1996@gmail.com)**
+**[Email](mailto:sunil1996@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)**
 
 **[LinkedIn](https://www.linkedin.com/in/sunil-subramanya-bs-301188169/)**
 
