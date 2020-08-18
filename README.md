@@ -1,4 +1,4 @@
- A dreamer, an aspiring computer scientist and an amateur footballer. My passions include Programming, Linux, AI and developing revolutionary apps and services.
+ An aspiring computer scientist and an amateur footballer. My passions include Programming, Linux, AI and developing revolutionary apps and services.
 
 # Competencies
 
@@ -57,7 +57,7 @@ _Setting up minimalist working environments on Linux._
 
 # Contact
 
-**email: sunil1996@gmail.com**
+**[mailto](sunil1996@gmail.com)**
 
 **[LinkedIn](https://www.linkedin.com/in/sunil-subramanya-bs-301188169/)**
 
