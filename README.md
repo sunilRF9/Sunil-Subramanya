@@ -42,9 +42,9 @@
 # Hobbies
 
 
-## *Video Editing*
-_Editing videos on Adobe Premier Pro._
-
+## *Chess*
+_Chess on Lichess._
+_https://lichess.org/@/coutinho19_
 
 ## *Linux Ricing*
 _Setting up minimalist working environments on Linux._ 
@@ -64,4 +64,6 @@ _Setting up minimalist working environments on Linux._
 **[GitHub](https://www.github.com/sunilRF9)**
 
 **[resume](https://github.com/sunilRF9/Price-monitor/files/5523556/Sunil.Subramanya-Nov.pdf)**
+
+**[Lichess](https://lichess.org/@/coutinho19)**
 
