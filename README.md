@@ -28,10 +28,10 @@
 #### [Code](https://github.com/sunilRF9/COVID-19-Flask-API/tree/beta)
     
 
-## **Football News Scraper**
-> Scrapes the latest headlines and article links using BeautifulSoup4 and Python.    
+## **Amazon Price Scraper**
+> Scrapes the latest prices of given links using Selenium and Python.    
     
-#### [Code](https://github.com/sunilRF9/News-scrapper)
+#### [Code](https://github.com/sunilRF9/Price-monitor)
 
 
 ## **Multithreaded Video Downloader**
@@ -42,8 +42,8 @@
 # Hobbies
 
 
-## *Shell Scripting*
-_Automating workflows by Shell scripting._
+## *Video Editing*
+_Editing videos on Adobe Premier Pro._
 
 
 ## *Linux Ricing*
@@ -63,5 +63,5 @@ _Setting up minimalist working environments on Linux._
 
 **[GitHub](https://www.github.com/sunilRF9)**
 
-**[resume](https://github.com/sunilRF9/Sunil-Subramanya/files/4840102/Sunil_Subramanya_updated.pdf)**
+**[resume](https://github.com/sunilRF9/Price-monitor/files/5523556/Sunil.Subramanya-Nov.pdf)**
 
